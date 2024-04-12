@@ -1,2 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://wgsgyes.github.io/gmeek</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://wgsgyes.github.io/gmeek</link></image><lastBuildDate>Fri, 12 Apr 2024 03:12:38 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://wgsgyes.github.io/gmeek</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://wgsgyes.github.io/gmeek</link></image><lastBuildDate>Fri, 12 Apr 2024 03:16:56 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>课程资料下载</title><link>https://wgsgyes.github.io/gmeek/post/ke-cheng-zi-liao-xia-zai.html</link><description>各位同学好：&#13;
+&#13;
+课程资料下载：&#13;
+&#13;
+链接: https://pan.baidu.com/s/1ygprI0CVXQNsAgNdDYrgbw 提取码: yy3k&#13;
+&#13;
+若无法下载课程资料，请发邮件通知我（邮箱地址在第一堂课的PPT中）。</description><guid isPermaLink="true">https://wgsgyes.github.io/gmeek/post/ke-cheng-zi-liao-xia-zai.html</guid><pubDate>Fri, 12 Apr 2024 03:12:07 +0000</pubDate></item></channel></rss>
